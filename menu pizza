@@ -12,7 +12,6 @@
     </header>
     <div id="menu">
         <div class="pizza">
-            <img src="calabreza.jpg" alt="Calabreza Pizza">
             <h2>Calabreza</h2>
             <div class="sizes">
                 <p class="size">Pequeno: R$ 20.00</p>
@@ -21,16 +20,14 @@
             </div>
         </div>
         <div class="pizza">
-            <img src="mussarela.jpg" alt="Mussarela Pizza">
             <h2>Mussarela</h2>
             <div class="sizes">
                 <p class="size">Pequeno: R$ 18.00</p>
-                <p class "size">Médio: R$ 23.00</p>
+                <p class="size">Médio: R$ 23.00</p>
                 <p class="size">Grande: R$ 28.00</p>
             </div>
         </div>
         <div class="pizza">
-            <img src="portuguesa.jpg" alt="Portuguesa Pizza">
             <h2>Portuguesa</h2>
             <div class="sizes">
                 <p class="size">Pequeno: R$ 22.00</p>
@@ -39,7 +36,6 @@
             </div>
         </div>
         <div class="pizza">
-            <img src="margarita.jpg" alt="Margarita Pizza">
             <h2>Margarita</h2>
             <div class="sizes">
                 <p class="size">Pequeno: R$ 19.00</p>
@@ -48,7 +44,6 @@
             </div>
         </div>
         <div class="pizza">
-            <img src="napolitana.jpg" alt="Napolitana Pizza">
             <h2>Napolitana</h2>
             <div class="sizes">
                 <p class="size">Pequeno: R$ 21.00</p>
@@ -57,7 +52,6 @@
             </div>
         </div>
         <div class="pizza">
-            <img src="bacon.jpg" alt="Bacon Pizza">
             <h2>Bacon</h2>
             <div class="sizes">
                 <p class="size">Pequeno: R$ 23.00</p>
@@ -66,7 +60,6 @@
             </div>
         </div>
         <div class="pizza">
-            <img src="provolone.jpg" alt="Provolone Pizza">
             <h2>Provolone</h2>
             <div class="sizes">
                 <p class="size">Pequeno: R$ 24.00</p>
@@ -74,6 +67,13 @@
                 <p class="size">Grande: R$ 34.00</p>
             </div>
         </div>
+         <div class="pizza">
+            <h2>Chocolate</h2>
+            <div class="sizes">
+                <p class="size">Pequeno: R$ 26.00</p>
+                <p class="size">Médio: R$ 31.00</p>
+                <p class="size">Grande: R$ 36.00</p>
+            </div>
     </div>
     <script src="script.js"></script>
 </body>
