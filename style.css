@@ -1,0 +1,46 @@
+body {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(https://static8.depositphotos.com/1038235/835/v/950/depositphotos_8356847-stock-illustration-seamless-colorful-cartoon-pizza-texture.jpg);
+    background-size: cover;
+}
+
+header {
+    text-align: center;
+    background-color: rgb(131, 193, 218);
+    color: #fff;
+    padding: 15px;
+}
+
+h1 {
+    margin: 0;
+    font-size: 50px;
+}
+
+#menu {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.pizza {
+    background-color: rgb(255, 243, 156);
+    border: 1px solid #ccc;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    width: 300px;
+}
+
+.pizza img {
+    max-width: 100%;
+}
+
+.sizes {
+    margin-top: 10px;
+}
+
+.size {
+    font-weight: bold;
+}
